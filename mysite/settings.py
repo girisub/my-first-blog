@@ -25,7 +25,7 @@ SECRET_KEY = 'vcamhlffbk^c%b)fihqql7df1&40$phwf*t8e0qt$()2+q$dh='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'giri.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'girisub.pythonanywhere.com']
 
 
 # Application definition
